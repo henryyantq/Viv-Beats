@@ -8,3 +8,5 @@ In general, this application is based on some very basic techniques that are wid
 I have to say that, I'm still a rookie to this, so surely there are something unclear or wrong in what I described above as well as in the design logic of Viv Beats. Feel free to let me know!
 
 I'll be updating this application unscheduledly ^_^
+
+SONY has a similar but more advanced technique that has already been deployed on a few of their own flagship smartphones, by which Viv Beats is partially inspired. Unfortunately, one can never experience that technology unless one has a SONY flagship smartphone, which costs at least about 699 dollars :(
