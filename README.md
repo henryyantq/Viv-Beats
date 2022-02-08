@@ -1,4 +1,5 @@
 # Viv-Beats
+Good news!!! The 2nd version of Viv Beats (Viv Beats 2) is ready to be launched! Instead of sitting and waiting, I prepared a beta version, please check out the latest release!
 ![79e13960-fd70-11eb-bff4-2bfc54652939](https://user-images.githubusercontent.com/20149275/129659725-9797e295-2b22-4689-a322-8f9a2ab6f534.png)
 
 A smartphone audio player that can follow the melody of audio to produce vibration. It is mainly designed as an Android app compatible to the Sailfish OS platform.
